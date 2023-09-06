@@ -69,4 +69,4 @@ OrderEye, yemek siparişi ve ödeme konusunda geleceği temsil ediyor. Keskin ne
 
 ### OrderEye ile Yemek Siparişi ve Ödeme Alanındaki Geleceğe Katılın:
 
-OrderEye, yemeklerinizi keşfetmeyi, seç
+OrderEye, yemeklerinizi keşfetmeyi, seçmeyi ve hesabınızı ödemeyi daha kolay hale getirirken keyifli bir yemek deneyimini daha önce hiç olmadığı kadar basit hale getiriyor. Menü karmaşasına veda edin ve daha keyifli bir yemek deneyimine merhaba deyin. OrderEye'ı hemen indirin ve güvenle yemek yemeğe başlayın!
